@@ -4,7 +4,7 @@ Computer science student currently immersed in web development. I'm genuinely ob
 
 ## 🛠️  Tech Stack :
  
-**Languages:** Python, JavaScript, C  
+**Languages:** Python, JavaScript, C, Java  
 **Web Development:** HTML, CSS, React, Node.js, Express  
 **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, XGBoost 
 
